@@ -14,7 +14,7 @@ Professional physiotherapy clinic website focused on premium branding, trust-bui
 </p>
 
 <p align="center">
-  <img src="./screenshots/vertex4.png" width="800" alt="Mobile Experience" />
+  <img src="./screenshots/vertex4.png" width="300" alt="Mobile Experience" />
 </p>
 
 ## Overview
