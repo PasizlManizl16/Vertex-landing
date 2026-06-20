@@ -2,6 +2,21 @@
 
 Professional physiotherapy clinic website focused on premium branding, trust-building, and responsive user experience.
 
+<h2>Project Showcase</h2>
+
+<p align="center">
+  <img src="./screenshots/vertex1.png" width="800" alt="Vertex Therapy Hero" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/vertex2.png" width="48%" alt="Services Section" />
+  <img src="./screenshots/vertex3.png" width="48%" alt="About Section" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/vertex4.png" width="800" alt="Mobile Experience" />
+</p>
+
 ## Overview
 
 Vertex Therapy is a modern website developed for a physiotherapy and rehabilitation practice. The goal of the project was to create a clean, professional online presence that complements the client's social media marketing strategy and provides visitors with an easy way to learn about the clinic and its services.
