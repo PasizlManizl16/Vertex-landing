@@ -64,25 +64,7 @@ Main objectives:
 
 🔗 https://vertextherapy.net
 
-## Screenshots
 
-### Homepage
-
-```html
-<img src="./screenshots/homepage.png" alt="Homepage" />
-```
-
-### Services Section
-
-```html
-<img src="./screenshots/services.png" alt="Services" />
-```
-
-### Mobile Experience
-
-```html
-<img src="./screenshots/mobile.png" alt="Mobile View" />
-```
 
 ## Status
 
